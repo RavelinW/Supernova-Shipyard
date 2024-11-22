@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Supernova-Shipyard
+Upstream-Contact: Ravelin Wright <github@ravelin.addy.io>
+Source: https://github.com/RavelinW/Supernova-Shipyard
+
+Files: 
+	*
+Copyright: Ravelin Wright <github@ravelin.addy.io>
+License: CC BY-NC-SA 4.0
