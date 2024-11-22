@@ -1,0 +1,16 @@
+debuglog.txt
+*.plt
+Pilots/
+*.lnk
+*.ttf
+*.ini
+*.exe
+*.dll
+Nova.rez
+*.7z
+QuickTime.qtp
+QuickTime.qts
+QuickTimeInternetExtras.qtx
+QuickTimeMPEG4.qtx
+EV Nova CE Read Me.txt
+TC Launcher (copy to TC folder).vbs
